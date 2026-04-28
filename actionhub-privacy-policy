@@ -1,0 +1,38 @@
+Privacy Policy for ActionHub
+
+ActionHub ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and safeguarded when you use our mobile application.
+1. Information Collection and Use
+ActionHub is designed as an "offline-first" application. Most of the data you create remains exclusively on your device.
+Personal Data: We do not require you to create an account or provide personal information (such as your name, email, or phone number) to use the app.
+User-Generated Content: Your Notes, Tasks, Routines, and Checklist items are stored locally on your device using an encrypted-by-default Android storage system (Room Database). We do not have access to this data.
+Health and Wellness Data: Data entered into the BMI Calculator or Water Reminder is stored locally and used only to provide you with the app's functionality.
+Sensor Data: Tools like the Noise Meter and Radiation Meter use your device's microphone and magnetometer in real-time. This data is processed locally and is never recorded, stored, or transmitted.
+
+2. Permissions
+To provide its services, ActionHub requests the following permissions:
+Internet: Used only for the Internet Speed Test tool and ML Kit updates.
+Notifications: Used to provide Task reminders and Water intake alerts.
+Camera: Used solely for the Document Scanner feature to capture images for local processing.
+
+3. Third-Party Services
+We use Google ML Kit for the Document Scanner and Text Recognition features. These libraries process data on-device. Please refer to Google’s Privacy Policy for more details on how they handle diagnostic data.
+
+4. Data Storage and Security
+All application data is stored in your device's private storage. If you uninstall the app or clear its data, all locally stored information (Notes, Tasks, etc.) will be permanently deleted unless you have manually backed it up using system-wide Android backup features.
+
+5. Children’s Privacy
+Our services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children.
+
+6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+
+7. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: rselvaguru@gmail.com
+Recommendations for the Developer:
+1. Hosting: You can host this text on a simple GitHub Gist, a free Notion page, or a website like TermsFeed.
+2. Play Store Console: You must provide a URL to this privacy policy in the "App Content" section of your Google Play Console.
+3. Data Safety Section: When filling out the "Data Safety" form in the Play Console, you can state that:
+No data is shared with third parties.
+No data is collected (since it stays on the device).
+Data is encrypted in transit (if you add sync later).
+Users can request data deletion (by uninstalling the app).
