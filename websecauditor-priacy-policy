@@ -1,0 +1,17 @@
+Privacy Policy for WebSec Auditor
+
+Effective Date:** October 22, 2026
+
+WebSec Auditor ("we", "our", or "app") respects your privacy.
+
+1. Information Collection and Use
+WebSec Auditor operates locally on your Android device. The application does NOT collect, store, or transmit any personal identifiable information (PII), analytics data, or device telemetry to external servers.
+
+2. Network Requests
+When you initiate an audit scan, the app performs direct network connections (HTTP/HTTPS, TLS handshakes, and DNS-over-HTTPS queries) solely to the target website or IP address specified by the user. Audit results are processed entirely on-device.
+
+3. Local Data Storage
+All scan reports and history items are stored locally in an encrypted Room database on your device. You can clear or delete your scan history at any time.
+
+4. Contact Us
+If you have questions regarding this Privacy Policy, contact us at: rselvaguru@gmail.com
