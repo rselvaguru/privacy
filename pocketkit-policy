@@ -1,0 +1,26 @@
+Privacy Policy for DevOps PocketKit
+Last Updated: February 10, 2026
+
+
+DevOps PocketKit ("the Application") is designed with a strict 100% Offline & Zero Data Collection Policy. Your privacy, infrastructure configurations, credentials, and notes are completely protected because the Application operates entirely offline without network access.
+
+
+1. Zero Network Access & Permission Policy
+• The Application does not include the android.permission.INTERNET permission in its Android Manifest.
+• The Application cannot connect to any external server, cloud service, telemetry provider, or analytics platform.
+• All calculations, token decodings, manifest generations, regex evaluations, and search queries take place purely on your physical device.
+
+2. Information Collection and Use
+• Personal Data: The Application does not collect, store, transmit, or share any personally identifiable information (PII).
+• Device Information: The Application does not track hardware IDs, IP addresses, location data, or device identifiers.
+• Analytics & Tracking: The Application contains zero third-party SDKs, tracking pixels, or analytics trackers.
+
+3. Local Storage & Encryption at Rest
+• Any scratchpad notes or snippets created within the Application are stored locally in an encrypted database on your device using hardware-backed AES-256-GCM authenticated encryption (AndroidKeyStore).
+• Data stored by the Application is excluded from cloud device backups (android:allowBackup="false").
+
+4. Third-Party Access
+Because the Application does not collect or transmit any data, no third parties have access to your data under any circumstances.
+
+5. Contact Us
+If you have any questions regarding this Privacy Policy, please contact @ rselvaguru@gmail.com.
